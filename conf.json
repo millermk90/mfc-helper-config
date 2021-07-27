@@ -1,3 +1,4 @@
 {
-  "host":"https://videosolo.usask.ca"
+  "host":"https://videosolo.usask.ca",
+  "ices": [{"url":"stun:stun1.l.google.com:19302"},{"url":"stun:stun2.l.google.com:19302"}]
  }
