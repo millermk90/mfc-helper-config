@@ -1,4 +1,4 @@
-{
+/*{
   "host":"http://localhost:3000",
   "ices": [{"url":"stun:stun1.l.google.com:19302"},{"url":"stun:stun2.l.google.com:19302"}]
-}
+}*/
