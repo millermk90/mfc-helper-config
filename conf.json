@@ -1,4 +1,4 @@
 {
   "host":"https://mfc-helper.xyz",
-  "ices": [{urls: ['turn:videosolo.usask.ca'], username: 'mfchelperuser', credential: '!O&s9&1OVnX14Gp7M0aN'}]
+  "ices": [{"urls": ["turn:videosolo.usask.ca"], "username": "mfchelperuser", credential: "!O&s9&1OVnX14Gp7M0aN"}]
 }
