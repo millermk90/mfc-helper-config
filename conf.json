@@ -1,4 +1,4 @@
 {
   "host":"https://mfc-helper.xyz",
-  "ices": [{"urls": ["turn:videosolo.usask.ca:443?transport=tcp"], "username": "mfchelperuser", "credential": "!O&s9&1OVnX14Gp7M0aN"}]
+  "ices": [{"urls":["stun:stun1.l.google.com:19302","stun:stun2.l.google.com:19302"]},{"urls": ["turn:videosolo.usask.ca:443?transport=tcp"], "username": "mfchelperuser", "credential": "!O&s9&1OVnX14Gp7M0aN"}]
 }
